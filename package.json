@@ -1,0 +1,23 @@
+{
+  "name": "ex-node-tweet-bot",
+  "version": "1.0.0",
+  "description": "A bot that scrapes Twitter and plugs the users into a dropbox file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DataDropApp/ex-node-tweet-bot.git"
+  },
+  "author": "William Burke",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/DataDropApp/ex-node-tweet-bot/issues"
+  },
+  "homepage": "https://github.com/DataDropApp/ex-node-tweet-bot",
+  "dependencies": {
+    "dd-push-js": "^1.0.0",
+    "twitter": "^1.2.5"
+  }
+}
